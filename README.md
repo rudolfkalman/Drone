@@ -256,12 +256,13 @@ PとDを調整するときに調整するゲイン以外を0にしてそれぞ�
 
 ## 参考文献
 
-* Emil Fresk & George Nikolakopoulos (2013). *Full Quaternion Based Attitude Control for a Quadrotor*.  
-  European Control Conference (ECC), Zurich, Switzerland, July 17–19, 2013.  
+* Emil Fresk & George Nikolakopoulos (2013), *Full Quaternion Based Attitude Control for a Quadrotor*,  
+  European Control Conference (ECC), Zurich, Switzerland, July 17–19, 2013,  
   IEEE. DOI: [10.23919/ECC.2013.6669617](https://doi.org/10.23919/ECC.2013.6669617)  
   PDF（オープンアクセス）: [DiVA Portal](https://www.diva-portal.org/smash/get/diva2:1010947/FULLTEXT01.pdf)
-* mebiusbox. *CGのための数学*.  
+* mebiusbox, *CGのための数学*,  
   クォータニオン章（オンライン）: [https://zenn.dev/mebiusbox/books/132b654aa02124/viewer/2966c7](https://zenn.dev/mebiusbox/books/132b654aa02124/viewer/2966c7)
+* tomtomApp, *Cartographerで地図を作成する(ROS2 humble)*, Qiita, https://qiita.com/tomtomApp/items/8d29a2dd00e60dade9e8
 
 
 ---
