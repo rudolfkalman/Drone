@@ -65,7 +65,7 @@ R,Lボタンで向きを変更できます。
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/st20080625/Drone.git
+git clone https://github.com/rudolfkalman/Drone.git
 
 # ディレクトリに移動
 cd Drone
